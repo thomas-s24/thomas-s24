@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... pursuing a career in computer science.
 - 🌱 I’m currently learning ... HTML and C++.
 - 💞️ I’m looking to collaborate on ... a project for a small scale, but useful app.
-- 📫 How to reach me ... email
+- 📫 How to reach me ... email at thomas.solloway5@gmail.com
 
 <!---
 thomas-s24/thomas-s24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
